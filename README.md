@@ -3,8 +3,8 @@ Situation Awareness in General Aviation Cockpits
 
 INCLUDED
 - Python code to establish connection between msfs2020 and sql-database (simulator variable upload)
-- Unity application assets scripts. 
+- Unity application assets scripts 
 
 NOT INCLUDED
-- Code for data preparation.
+- Code for data preparation
 - complete Unity application  
