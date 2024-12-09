@@ -6,5 +6,4 @@ INCLUDED
 - Unity application assets scripts
 - Code for data preparation
 
-NOT INCLUDED
-- complete Unity application  
+The complete Unity application is available from the authors upon request.
